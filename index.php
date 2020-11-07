@@ -19,7 +19,7 @@
                     <img class="card-img-top" src="img/creative/creative3.jpg" style="height: 300px;">
                     <div class="card-body">
                         <h4 class="card-title">On Road</h4>
-                        <p class="card-text">Pan Roob ti Jabb markkk
+                        <p class="card-text">a+ครับเทอมนี้
                         <p>
                     </div>
                     <div class="card-footer">
@@ -33,7 +33,7 @@
                     <img class="card-img-top" src="img/life/life4.jpg" style="height: 300px;">
                     <div class="card-body">
                         <h4 class="card-title">Life</h4>
-                        <p class="card-text">oasis ma eeng
+                        <p class="card-text">i like itf eiei
                         <p>
                     </div>
                     <div class="card-footer">
